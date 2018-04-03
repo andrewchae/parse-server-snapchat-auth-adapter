@@ -1,0 +1,11 @@
+{
+  "name": "parse-server-snapchat-auth-adapter",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "repository": "https://github.com/andrewchae/parse-server-snapchat-auth-adapter.git",
+  "author": "Andrew Chae",
+  "license": "MIT",
+  "dependencies": {
+    "parse": "^2.16.0"
+  }
+}
